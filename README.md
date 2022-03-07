@@ -1,2 +1,4 @@
 # BSP-S2
-Pathfinding
+Pathfinding A*
+
+Welcome
